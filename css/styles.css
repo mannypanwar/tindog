@@ -46,3 +46,30 @@ h1{
   transform: rotate(25deg);
 
 }
+
+/* features section */
+#features{
+  padding: 7% 15%;
+}
+
+.features-div{
+  padding: 5%;
+}
+
+.features-ico{
+  color: #ef8172;
+  font-size: 4rem;
+  padding-bottom: 1rem;
+}
+.features-ico:hover{
+  color: #ff4c68;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+.features-p{
+  color: #8f8f8f
+}
