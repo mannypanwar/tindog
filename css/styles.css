@@ -186,4 +186,8 @@ p {
   #pricing {
     padding: 7% 10%;
   }
+  .download-btn {
+    width: 200px;
+    height: 65px;
+}
 }
