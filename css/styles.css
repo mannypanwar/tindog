@@ -190,4 +190,16 @@ p {
     width: 200px;
     height: 65px;
 }
+  .features-ico{
+    font-size: 100px;
+  }
+  .feature-title{
+    font-size: 3rem;
+  }
+  .features-p{
+    font-size: 1.5rem;
+  }
+  p{
+   font-size: 1.5rem;
+  }
 }
